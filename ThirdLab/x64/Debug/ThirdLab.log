@@ -1,0 +1,8 @@
+﻿  ThirdLab.cpp
+C:\Users\Draken\source\repos\ThirdLab\ThirdLab\MinHeap.h(55,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Draken\source\repos\ThirdLab\ThirdLab\MinHeap.h(60,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Draken\source\repos\ThirdLab\ThirdLab\MinHeap.h(68,16): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Draken\source\repos\ThirdLab\ThirdLab\MinHeap.h(97,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Draken\source\repos\ThirdLab\ThirdLab\MinHeap.h(102,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Draken\source\repos\ThirdLab\ThirdLab\MinHeap.h(110,16): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  ThirdLab.vcxproj -> C:\Users\Draken\source\repos\ThirdLab\x64\Debug\ThirdLab.exe
